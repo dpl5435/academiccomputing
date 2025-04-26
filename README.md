@@ -1,3 +1,2 @@
 # academiccomputing
-academiccomputing
-Testing for academic computing.
+academiccomputing testing
